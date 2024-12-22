@@ -11,7 +11,7 @@ I'm a passionate **Python** and **Web Developer** with a knack for creating effi
 
 ## 🚀 Technology Stack
 
-<div align="right">
+<div align="center">
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px;">
     <div align="center" style="width: 120px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60" style="border-radius: 50%; background: #f0f0f0; padding: 10px;" />
