@@ -1,4 +1,4 @@
-# Hi there, I'm San Shibu! 👋
+![Banner](https://github.com/scorpioxdev/scorpioxdev/blob/main/githubprofilebanner.png)
 
 ## About Me
 
