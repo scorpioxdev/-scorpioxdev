@@ -46,5 +46,3 @@ I'm a passionate **Python** and **Web Developer** with a knack for creating effi
 ## Visitor Count 👀
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=scorpioxdev&color=brightgreen)
-
-[![Scorpioxdev's GitHub stats](https://github-readme-stats.vercel.app/api?username=scorpioxdev)](https://github.com/anuraghazra/github-readme-stats)
