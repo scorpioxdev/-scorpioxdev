@@ -8,19 +8,61 @@ I'm a passionate **Python** and **Web Developer** with a knack for creating effi
               
                             🛠️ Current Focus: Building web applications and diving deeper into Python ecosystems.
 ---
+# Hi, I'm [Your Name]! 👋
+
+![Banner](https://via.placeholder.com/900x200?text=Your+Custom+Banner+Here)
+
+---
 
 ## 🚀 Technology Stack
 
-<div align="center" style="position: relative; width: 300px; height: 300px; margin: auto;">
-  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
-    <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python" style="border-radius: 50%; margin: 10px;">
-    <img src="https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=for-the-badge" alt="Django" style="border-radius: 50%; margin: 10px;">
-    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript" style="border-radius: 50%; margin: 10px;">
-    <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge" alt="React" style="border-radius: 50%; margin: 10px;">
-    <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge" alt="GitHub" style="border-radius: 50%; margin: 10px;">
-    <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML5" style="border-radius: 50%; margin: 10px;">
-    <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS3" style="border-radius: 50%; margin: 10px;">
-  </div>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50" />
+        <br />
+        <b>Python</b>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="50" height="50" />
+        <br />
+        <b>Django</b>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" />
+        <br />
+        <b>JavaScript</b>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50" />
+        <br />
+        <b>React</b>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50" />
+        <br />
+        <b>GitHub</b>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50" />
+        <br />
+        <b>HTML5</b>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50" />
+        <br />
+        <b>CSS3</b>
+      </td>
+      <td align="center" width="120">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50" height="50" />
+        <br />
+        <b>Bootstrap</b>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
