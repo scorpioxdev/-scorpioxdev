@@ -62,7 +62,7 @@ I'm a passionate **Python** and **Web Developer** with a knack for creating effi
 
 ![Github](https://github-readme-stats.vercel.app/api?username=scorpioxdev&show_icons=true&theme=gotham)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=scorpioxdev&theme=gotham&hide_border=true&border_radius=4&short_numbers=true&mode=weekly&card_width=500&card_height=200)](https://git.io/streak-stats)
+    [![GitHub Streak](https://streak-stats.demolab.com?user=scorpioxdev&theme=gotham&hide_border=true&border_radius=4&short_numbers=true&mode=weekly&card_width=500&card_height=200)](https://git.io/streak-stats)
 
 ---
 
