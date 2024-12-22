@@ -11,7 +11,7 @@ I'm a passionate **Python** and **Web Developer** with a knack for creating effi
 
 ## 🚀 Technology Stack
 
-<div align="center">
+<div align="justify">
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px;">
     <div align="center" style="width: 120px;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60" style="border-radius: 50%; background: radial-gradient(circle, #1d3557, #457b9d); padding: 10px;" />
