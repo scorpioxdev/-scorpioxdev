@@ -29,7 +29,7 @@ I'm a passionate **Python** and **Web Developer** with a knack for creating effi
 
 ## GitHub Stats 📊
 
-![San Shibu's GitHub stats](https://github-readme-stats.vercel.app/api?username=scorpioxdev&show_icons=true&theme=radical)
+![San Shibu's GitHub stats](https://github-readme-stats.vercel.app/api?username=scorpioxdev&show_icons=true&theme=gotham)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scorpioxdev&layout=compact&theme=radical)
 
