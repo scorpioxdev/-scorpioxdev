@@ -4,11 +4,9 @@
 
 I'm a passionate **Python** and **Web Developer** with a knack for creating efficient, scalable, and user-friendly applications. I thrive on turning complex problems into elegant solutions and enjoy learning new technologies to expand my skill set.
 
-🌍 Based in: [Your Location]
-
-🎓 Education: [Your Educational Background or Institution]
-
-🛠️ Current Focus: Building web applications and diving deeper into Python ecosystems.
+                                    🌍 Based in: India          🎓 Education: Bachelors In Information Technology          
+              
+                                🛠️ Current Focus: Building web applications and diving deeper into Python ecosystems.
 
 ## Technology Stack 💻
 
