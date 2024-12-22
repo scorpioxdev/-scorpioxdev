@@ -14,42 +14,42 @@ I'm a passionate **Python** and **Web Developer** with a knack for creating effi
 <div align="center">
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 30px;">
     <div align="center" style="width: 120px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60" style="border-radius: 50%; background: #f0f0f0; padding: 10px;" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60" style="border-radius: 50%; background: radial-gradient(circle, #1d3557, #457b9d); padding: 10px;" />
       <br />
       <b>Python</b>
     </div>
     <div align="center" style="width: 120px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="60" height="60" style="border-radius: 50%; background: #f0f0f0; padding: 10px;" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="60" height="60" style="border-radius: 50%; background: radial-gradient(circle, #1d3557, #457b9d); padding: 10px;" />
       <br />
       <b>Django</b>
     </div>
     <div align="center" style="width: 120px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60" style="border-radius: 50%; background: #f0f0f0; padding: 10px;" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60" style="border-radius: 50%; background: radial-gradient(circle, #1d3557, #457b9d); padding: 10px;" />
       <br />
       <b>JavaScript</b>
     </div>
     <div align="center" style="width: 120px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="60" height="60" style="border-radius: 50%; background: #f0f0f0; padding: 10px;" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="60" height="60" style="border-radius: 50%; background: radial-gradient(circle, #1d3557, #457b9d); padding: 10px;" />
       <br />
       <b>React</b>
     </div>
     <div align="center" style="width: 120px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="60" height="60" style="border-radius: 50%; background: #f0f0f0; padding: 10px;" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="60" height="60" style="border-radius: 50%; background: radial-gradient(circle, #1d3557, #457b9d); padding: 10px;" />
       <br />
       <b>GitHub</b>
     </div>
     <div align="center" style="width: 120px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60" style="border-radius: 50%; background: #f0f0f0; padding: 10px;" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60" style="border-radius: 50%; background: radial-gradient(circle, #1d3557, #457b9d); padding: 10px;" />
       <br />
       <b>HTML5</b>
     </div>
     <div align="center" style="width: 120px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60" style="border-radius: 50%; background: #f0f0f0; padding: 10px;" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60" style="border-radius: 50%; background: radial-gradient(circle, #1d3557, #457b9d); padding: 10px;" />
       <br />
       <b>CSS3</b>
     </div>
     <div align="center" style="width: 120px;">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="60" height="60" style="border-radius: 50%; background: #f0f0f0; padding: 10px;" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="60" height="60" style="border-radius: 50%; background: radial-gradient(circle, #1d3557, #457b9d); padding: 10px;" />
       <br />
       <b>Bootstrap</b>
     </div>
@@ -60,10 +60,7 @@ I'm a passionate **Python** and **Web Developer** with a knack for creating effi
 
 ## 📊 GitHub Stats
 
-![Github](https://github-readme-stats.vercel.app/api?username=scorpioxdev&show_icons=true&theme=gotham)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=scorpioxdev&theme=gotham&hide_border=true&border_radius=4&short_numbers=true&mode=weekly&card_width=700&card_height=300)](https://git.io/streak-stats)
-
+![Github](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=gotham) [![GitHub Streak](https://streak-stats.demolab.com?user=scorpioxdev&theme=gotham&hide_border=true&border_radius=4&short_numbers=true&mode=weekly)](https://git.io/streak-stats) 
 
 ---
 
@@ -88,20 +85,6 @@ Highlight another project that shows your skills.
 - I love solving coding challenges and contributing to open-source projects!
 
 Feel free to customize this `README.md` further to suit your profile's exact needs!
-
-
-
-## GitHub Stats 📊
-
-![San Shibu's GitHub stats](https://github-readme-stats.vercel.app/api?username=scorpioxdev&layout=compact&show_icons=true&theme=gotham)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scorpioxdev&layout=compact&theme=gotham)
-
-## Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/scorpioxdev)
 
 ---
 
