@@ -90,9 +90,9 @@ Feel free to customize this `README.md` further to suit your profile's exact nee
 
 ## GitHub Stats 📊
 
-![San Shibu's GitHub stats](https://github-readme-stats.vercel.app/api?username=scorpioxdev&show_icons=true&theme=gotham)
+![San Shibu's GitHub stats](https://github-readme-stats.vercel.app/api?username=scorpioxdev&layout=compact&show_icons=true&theme=gotham)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scorpioxdev&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scorpioxdev&layout=compact&theme=gotham)
 
 ## Let's Connect!
 
