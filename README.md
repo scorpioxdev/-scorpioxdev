@@ -8,11 +8,6 @@ I'm a passionate **Python** and **Web Developer** with a knack for creating effi
               
                             🛠️ Current Focus: Building web applications and diving deeper into Python ecosystems.
 ---
-# Hi, I'm [Your Name]! 👋
-
-![Banner](https://via.placeholder.com/900x200?text=Your+Custom+Banner+Here)
-
----
 
 ## 🚀 Technology Stack
 
