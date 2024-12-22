@@ -60,7 +60,7 @@ I'm a passionate **Python** and **Web Developer** with a knack for creating effi
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)  ![GitHub Streaks]("https://github-readme-streak-stats.herokuapp.com/?user=scorpioxdev&")
+![Github](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)![Github](https://github-readme-streak-stats.herokuapp.com/?user=scorpioxdev&)
 
 ---
 
